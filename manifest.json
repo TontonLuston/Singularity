@@ -11,8 +11,8 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Singularity",
-  "version": "1.1.0",
-  "author": "Luston",
+  "version": "1.2.0",
+  "author": "",
   "files": [
     {
       "projectID": 238222,
@@ -62,6 +62,11 @@
     {
       "projectID": 351264,
       "fileID": 4778283,
+      "required": true
+    },
+    {
+      "projectID": 407206,
+      "fileID": 4766866,
       "required": true
     },
     {
