@@ -1,0 +1,6 @@
+*
+!.vscode
+!.gitignore
+!/overrides
+!manifest.json
+!modlist.html
