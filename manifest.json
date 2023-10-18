@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Singularity",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Luston",
   "files": [
     {
@@ -22,11 +22,6 @@
     {
       "projectID": 237307,
       "fileID": 4600191,
-      "required": true
-    },
-    {
-      "projectID": 739973,
-      "fileID": 4751257,
       "required": true
     },
     {
@@ -45,6 +40,11 @@
       "required": true
     },
     {
+      "projectID": 871698,
+      "fileID": 4632444,
+      "required": true
+    },
+    {
       "projectID": 531761,
       "fileID": 4757228,
       "required": true
@@ -60,8 +60,8 @@
       "required": true
     },
     {
-      "projectID": 538560,
-      "fileID": 4635838,
+      "projectID": 351264,
+      "fileID": 4778283,
       "required": true
     },
     {
@@ -105,11 +105,6 @@
       "required": true
     },
     {
-      "projectID": 871698,
-      "fileID": 4632444,
-      "required": true
-    },
-    {
       "projectID": 841890,
       "fileID": 4764357,
       "required": true
@@ -145,6 +140,11 @@
       "required": true
     },
     {
+      "projectID": 688768,
+      "fileID": 4787059,
+      "required": true
+    },
+    {
       "projectID": 240630,
       "fileID": 4689044,
       "required": true
@@ -177,6 +177,11 @@
     {
       "projectID": 570073,
       "fileID": 4741196,
+      "required": true
+    },
+    {
+      "projectID": 659674,
+      "fileID": 4763056,
       "required": true
     }
   ],
