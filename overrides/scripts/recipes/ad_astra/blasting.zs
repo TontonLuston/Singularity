@@ -1,0 +1,1 @@
+<recipetype:minecraft:blasting>.remove(<item:ad_astra:steel_ingot>);
