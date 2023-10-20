@@ -17,7 +17,7 @@
   <item:ad_astra:compressor>,
   [ [<tag:items:forge:plates/steel>, <item:createaddition:modular_accumulator>, <tag:items:forge:plates/steel>],
     [<tag:items:forge:plates/steel>, <item:createaddition:electric_motor>,      <tag:items:forge:plates/steel>],
-    [<tag:items:forge:plates/steel>, <item:createcasing:brass_press>,           <tag:items:forge:plates/steel>],
+    [<tag:items:forge:plates/steel>, <item:create:mechanical_press>,                       <tag:items:forge:plates/steel>],
     [<tag:items:forge:plates/steel>, <item:minecraft:air>,                      <tag:items:forge:plates/steel>],
     [<tag:items:forge:ingots/steel>, <tag:items:forge:storage_blocks/steel>,    <tag:items:forge:ingots/steel>],
   ]
@@ -39,7 +39,7 @@
   <item:ad_astra:fuel_refinery>,
   [ [<item:minecraft:air>,     <tag:items:forge:plates/steel>, <item:createaddition:modular_accumulator>, <tag:items:forge:plates/steel>, <item:minecraft:air>],
     [<item:minecraft:air>,     <tag:items:forge:plates/steel>, <item:createaddition:electric_motor>,      <tag:items:forge:plates/steel>, <item:minecraft:air>],
-    [<item:minecraft:air>,     <tag:items:forge:plates/steel>, <item:createcasing:brass_mixer>,           <tag:items:forge:plates/steel>, <item:minecraft:air>],
+    [<item:minecraft:air>,     <tag:items:forge:plates/steel>, <item:create:mechanical_mixer>,           <tag:items:forge:plates/steel>, <item:minecraft:air>],
     [<item:create:fluid_pipe>, <item:create:fluid_tank>,       <item:create:basin>,                       <item:create:fluid_tank>,       <item:create:fluid_pipe>],
     [<item:minecraft:air>,     <tag:items:forge:plates/steel>, <item:create:blaze_burner>,                <tag:items:forge:plates/steel>, <item:minecraft:air>],
     [<item:minecraft:air>,     <tag:items:forge:ingots/steel>, <tag:items:forge:ingots/steel>,            <tag:items:forge:ingots/steel>, <item:minecraft:air>],
