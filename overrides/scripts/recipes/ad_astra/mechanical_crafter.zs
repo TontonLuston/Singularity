@@ -17,7 +17,7 @@
   <item:ad_astra:compressor>,
   [ [<tag:items:forge:plates/steel>, <item:createaddition:modular_accumulator>, <tag:items:forge:plates/steel>],
     [<tag:items:forge:plates/steel>, <item:createaddition:electric_motor>,      <tag:items:forge:plates/steel>],
-    [<tag:items:forge:plates/steel>, <item:create:mechanical_press>,                       <tag:items:forge:plates/steel>],
+    [<tag:items:forge:plates/steel>, <item:create:mechanical_press>,           <tag:items:forge:plates/steel>],
     [<tag:items:forge:plates/steel>, <item:minecraft:air>,                      <tag:items:forge:plates/steel>],
     [<tag:items:forge:ingots/steel>, <tag:items:forge:storage_blocks/steel>,    <tag:items:forge:ingots/steel>],
   ]

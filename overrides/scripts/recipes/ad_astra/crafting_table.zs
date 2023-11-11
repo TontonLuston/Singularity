@@ -4,6 +4,4 @@ recipes.remove(<item:ad_astra:compressor>);
 
 recipes.remove(<item:ad_astra:fuel_refinery>);
 
-recipes.remove(<item:ad_astra:nasa_workbench>);
-
 
